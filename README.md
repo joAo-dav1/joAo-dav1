@@ -17,6 +17,7 @@ I'm focused on building a strong foundation in programming and software developm
 
 ## 📲 Connect with me in my social medias
 - [Instagram](https://www.instagram.com/joaodfeitosa_?igsh=MW94cHo5dXEweWw3bA%3D%3D&utm_source=qr)
+- [Linkedln](https://www.linkedin.com/in/jo%C3%A3o-davi-52b920372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
