@@ -1,4 +1,4 @@
-# Hi there, I'm joAo-dav1! 👋
+# Hi there, I'm João Davi! 👋
 
 🎓 **Information Systems Student**  
 Currently studying at Universidade Federal do Ceará, passionate about technology and always eager to learn more.
