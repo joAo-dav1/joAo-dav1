@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm joAo-dav1! 👋
 
-<!--
-**joAo-dav1/joAo-dav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Information Systems Student**  
+Currently studying at Universidade Federal do Ceará, passionate about technology and always eager to learn more.
 
-Here are some ideas to get you started:
+## 🛠️ Top Skills
+- **C**
+- **Java**
+- **Go**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Hobbies & Interests
+- Playing video games
+- Exploring new programming languages to upgrade my skills
+
+## 🌱 What I'm Up To
+I'm focused on building a strong foundation in programming and software development, and excited to start contributing to projects soon!
+
+## 📲 Connect with me in my social medias
+- [Instagram](https://www.instagram.com/joaodfeitosa_?igsh=MW94cHo5dXEweWw3bA%3D%3D&utm_source=qr)
+
+---
+
+*Let's connect, learn, and grow together!*
